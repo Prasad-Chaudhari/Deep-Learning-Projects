@@ -1,0 +1,1 @@
+python3 train.py --lr .001 --batch_size 512 --init 1 --dropout_prob .5 --decode_method 0 --beam_width 3 --save_dir ./ --epochs 20 --train ./ --val ./ --exp_num 0 --best_itr 10
